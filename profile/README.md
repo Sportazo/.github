@@ -7,8 +7,7 @@ https://www.figma.com/proto/nOITEOLcECHRqiKFqzNCWu/Sportazo?page-id=0%3A1&node-i
 https://www.figma.com/file/nOITEOLcECHRqiKFqzNCWu/Sportazo?node-id=30%3A62&t=Mm9l92AhiN4hKIlv-1
 
 ## Submission video
-
-## Case Study
+https://youtu.be/JyzFwlAt2_o
 
 ## Presentation
 
