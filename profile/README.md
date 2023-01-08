@@ -1,17 +1,7 @@
 ![Cover Image](Wallpaper.png)
 ## Next Video Build Hackathon by Encode
-## Submission\
+## Figma prototype
+https://www.figma.com/proto/nOITEOLcECHRqiKFqzNCWu/Livepeer?page-id=0%3A1&node-id=30%3A62&viewport=-159%2C267%2C0.19&scaling=scale-down-width&starting-point-node-id=30%3A62
 ### Welcome
 
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
