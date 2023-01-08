@@ -1,7 +1,8 @@
+![Cover Image](Wallpaper.png)
 ## Hi there 👋
 # Hola
 
-![Cover Image](Wallpaper.png)
+
 
 <!--
 
