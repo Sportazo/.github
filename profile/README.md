@@ -10,7 +10,7 @@ https://www.figma.com/file/nOITEOLcECHRqiKFqzNCWu/Sportazo?node-id=30%3A62&t=Mm9
 https://youtu.be/JyzFwlAt2_o
 
 ## Presentation
-
+https://drive.google.com/file/d/1TdKYjQan14Zlu8VrerP9sTFxUBRY62cF/view?usp=sharing
 
 
 
