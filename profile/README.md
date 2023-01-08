@@ -1,6 +1,8 @@
 ## Hi there 👋
 # Hola
 
+![Cover Image](Wallpaper.png)
+
 <!--
 
 **Here are some ideas to get you started:**
