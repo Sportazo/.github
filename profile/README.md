@@ -6,6 +6,8 @@ Sportazo is the future of blockchain based sports videoclips. Similar to Unsplas
 
 There are several reasons why I decided to create this project, which involve a lack of video focus sports marketplaces in the Web3 industry. There is also a huge gap of opportunity for video creators who assist to sport games to have a Web3 niche. Hosting video clips online can be really expensive for new companies, so a solution to have more efficient video transcoding is required. There is a big growth to bring more of the sports fanbase into the blockchain community.
 
+### Opportunity
+
 ## Figma prototype
 https://www.figma.com/proto/nOITEOLcECHRqiKFqzNCWu/Sportazo?page-id=0%3A1&node-id=30%3A62&viewport=113%2C238%2C0.11&scaling=scale-down-width&starting-point-node-id=30%3A62
 
