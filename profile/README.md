@@ -10,6 +10,22 @@ There are several reasons why I decided to create this project, which involve a 
 
 ### Solution
 
+The solution for this problem is my proposal, Sportazo. A platform specifically focused on sports videoclips recorded by the community, for the community.
+It uses the technology of Livepeer Studio in order to have an efficient video transcoding. The creators and collectors will have an amazing experience that will keep them engaged in the platform.
+
+### Features
+* Ideal for collectors who enjoy keeping the memory of different sports matches.
+* Perfect for creators who already take professional sports pictures, or who might start doing it as a hobby while earning money.
+* Scalable solution to the expensive infrastructure video solutions.
+* Collections: A group of videoclips that belong to the same category. Anyone can create a collection.
+* Albums: Buy stamp packs to finish the complete album. Only by invitation to create album.
+
+### Competition
+There is no platform on the market that has the same aim as Sportazo. It is a combination of Unsplash, Panini sticker album and Opensea. This is the reason why it could potentially be a positive implementation to the Web3 industry.
+
+### Why use Livepeer?
+The use of videoclips in the platform is the main attraction so it is important to ensure that resources are used to keep the transcoding cheap.
+There are currently 5172 delegators ensuring the network so the project is here to stay for the long run.
 
 
 ## Figma prototype
